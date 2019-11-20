@@ -1,0 +1,38 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+#header
+{
+   height: 100vh;
+   background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(jatti.jpg);
+   background-position: center;
+   background-size: cover;
+   background-attachment: fixed;
+
+ } 
+
+ .banner h1
+ {
+ 	
+ 	font-size: 50px;
+ 	letter-spacing: 6px;
+ 	font-style: inherit;
+
+ }
+ 
+#last
+{
+	
+   background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(jatta.jpg);
+   background-position: center;
+   background-size: cover;
+   background-attachment: fixed;
+
+}
+.menubar-default
+{
+  color: red;
+}
